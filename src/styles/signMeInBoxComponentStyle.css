@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.input-box
+{
+  background-color:hsl(210, 100%, 85%);
+  border-radius: 7px;
+  margin: 0px auto 0px auto;
+  width: 50%;
+}
+
+#sign-in-box 
+{
+  background-color: transparent;
+  border-style: none;
+  border-bottom: 0.7px solid #4da6ff;
+  margin: 10px 0px 10px;
+  color: #4da6ff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#sign-in-box:focus
+{
+  outline: none;
+}
+
+#sign-in-button
+{
+    margin: 10px 0px 10px;
+    padding: 3px;
+    border-radius: 3px;
+    border: 0.2px solid #cceeff;
+    background-color: #cceeff;
+
+    color: #4da6ff;
+    font-size:15px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#sign-in-button:hover
+{
+  cursor: pointer;
+}
+
+#span-box-label
+{
+  font-size: 12px;
+  color: #4da6ff;
+  font-weight: bold;
+}
+#error-msg-span
+{
+  color:#ff3333;
+  font-size: 12px;
+}

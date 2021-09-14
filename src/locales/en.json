@@ -1,0 +1,14 @@
+{
+
+  "signMeInComponent":
+      {
+          "inputMailLabel": "E-mail: ",
+          "errorMessage": "E-mail must contain '@' !",
+          "signMeButton": "Sign me in!"
+      },
+
+    "landingPage": 
+    {
+        "header": "Welcome!"
+    }
+  }
